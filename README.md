@@ -1,4 +1,4 @@
-# Browian-Motion-Simulation-
+# Brownian-Motion-Simulation-
 
 This project is about simulating the price of a financial asset using a Brownian motion model.  
 I worked on this project to better understand how asset prices move over time and how uncertainty affects financial markets.
